@@ -1,0 +1,407 @@
+body{
+    margin: 0%;
+}
+.div1{
+    
+    margin: 0rem;
+    height: 2rem;
+    width: 85rem;
+    position: absolute;
+    background-color: black;
+}
+#b1{
+    position: absolute;
+    color: aliceblue;
+    background-color: rgb(51, 49, 49);
+    border-radius: 4rem;
+    margin-left: 13rem;
+    margin-top: 0.4rem;
+
+}
+#b1:hover {
+    background-color: white;
+    color: red;
+}
+#b2{
+    position: absolute;
+    color: aliceblue;
+    background-color: rgb(51, 49, 49);
+    border-radius: 4rem;
+    margin-left: 22rem;
+    margin-top: 0.4rem;
+
+}
+#b2:hover {
+    background-color: white;
+    color: red;
+}
+#b3{
+position: absolute;
+margin-top: 0.4rem;
+margin-left: 58rem;
+background-color: orangered;
+    color: aliceblue;
+}
+#b3:hover {
+    background-color: white;
+    color:black;
+}
+#b4{
+    position: absolute;
+    margin-top: 0.4rem;
+    margin-left: 66rem;
+    background-color: orangered;
+    color: aliceblue;
+    
+    }
+    #b4:hover {
+        background-color: white;
+        color:black;
+    }
+    .div2{
+        position: absolute;
+        background-color: rgb(223, 220, 220);
+        display: inline block;
+        height: 4rem;
+        width: 85rem;
+        
+        text-align: center;
+        margin-top: 2rem;
+        
+        
+    }
+    h4{
+        display: inline-block;
+        margin-left: 4rem;
+        
+    }
+    .img1{
+        
+        margin-top:6rem;
+        width: 84.4rem;
+        height: 45rem;
+        opacity: 0.7;
+    }
+.div3{
+    position: absolute;
+    color:black;
+    text-align: left;
+    margin-top: -35rem;
+    margin-left: 51rem;
+    font-size: large;
+
+}
+.div4{
+    position: absolute;
+    background-color: black;
+    width: 84.4rem;
+    color: white;
+    margin-top: -5rem;
+    text-align: center;
+    font-size: large;
+}
+#h1{
+    color: aliceblue;
+}
+#img2{
+    position: absolute;
+    height: 20rem;
+    width: 20rem;
+    margin-top: 4rem;
+    margin-left: 16rem;
+    border-radius: 1rem;
+    border: 3px solid red;
+}
+.div5{
+    position: absolute;
+    margin-top: 3rem;
+    margin-left: 50rem;
+}
+.div6{
+    position: absolute;
+    font-size: larger;
+    margin-top: 29rem;
+    margin-left: 17rem;
+    width: -10rem;
+    text-align: center;
+}
+#h2{
+    color: white;
+    background-color: black;
+    
+   
+}
+.div7{
+    position: absolute;
+    margin-top: 35rem;
+    margin-left: 12rem;
+    background-color: rgb(242, 246, 248);
+    width: 30rem;
+    text-align: center;
+}
+#INR{
+    background-color: black;
+    color: white;
+    margin-left: 8rem;
+    inline-size: 7rem;
+    height: 2rem;
+}
+#INR:hover{
+    background-color: white;
+    color:black;
+}
+#INR2{
+    background-color: black;
+    color: white;
+    margin-left: 8rem;
+    inline-size: 7rem;
+    height: 2rem;
+
+}
+#INR2:hover{
+    background-color: white;
+    color:black;
+}
+#INR3{
+    background-color: black;
+    color: white;
+    margin-left: 6.5rem;
+    inline-size: 7rem;
+    height: 2rem;
+
+}
+#INR3:hover{
+    background-color: white;
+    color:black;
+}
+#INR4{
+    background-color: black;
+    color: white;
+    margin-left: 6rem;
+    inline-size: 7rem;
+    height: 2rem;
+
+}
+#INR4:hover{
+    background-color: white;
+    color:black;
+}
+#INR5{
+    background-color: black;
+    color: white;
+    margin-left: 8rem;
+    inline-size: 7rem;
+    height: 2rem;
+
+}
+#INR5:hover{
+    background-color: white;
+    color:black;
+}
+#donate{
+    background-color: orangered;
+    color: white;
+    height: 2rem;
+    width: 8rem;
+    text-align: center;
+    margin-left: 1rem;
+}
+#donate:hover{
+    background-color:rgb(248, 248, 173);
+    color:rgb(17, 17, 17);
+}
+.vl {
+    border-left: 2px solid black;
+    height: 650px;
+    margin-top: 30rem;
+    margin-left: 43rem;
+
+  }
+  .div8{
+    position: absolute;
+    margin-top:-41rem ;
+    margin-left: 45rem;
+  }
+  #h4{
+    background-color: black;
+    color: white;
+  }
+  .v2 {
+    border-left: 2px solid black;
+    height: 400px;
+    margin-top: -41rem;
+    margin-left: 64rem;
+
+  }
+  #pay{
+    position: absolute;
+    height: 15rem;
+    width: 14rem;
+    margin-top:-19rem ;
+    margin-left: 66rem;
+  }
+  .div9{
+    position: absolute;
+    margin-left: 45rem;
+  }
+  #h5{
+    background-color: rgb(83, 81, 81);
+    color: white;
+  }
+  .div10{
+    position: absolute;
+    margin-top: 6rem;
+    margin-left: 12rem;
+  }
+  #h6{
+    background-color: black;
+    color: white;
+  }
+  #love{
+    position: absolute;
+    height: 20rem;
+    width: 22rem;
+    margin-top: 12rem;
+    margin-left: 50rem;
+  }
+  #hr{
+    margin-top: 26rem;
+  }
+  .div11{
+    position: absolute;
+    margin-top: 45rem;
+    background-color: black;
+    color: white;
+    width: 84.4rem;
+    height: 4rem;
+  }
+  #L{
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: 12rem;
+    height: 3rem;
+    width:3rem ;
+    border-radius: 50%;
+
+  }
+     #L:hover {
+         background-color: black;
+        color: aliceblue;
+        border: 2px solid rgb(248, 246, 246);
+  }
+  #be{
+    position: absolute;
+    margin-left: 15.5rem;
+  }
+  #R{
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: 28rem;
+    height: 3rem;
+    width:3rem ;
+    border-radius: 50%;
+
+    
+  }
+  #R:hover {
+    background-color: black;
+   color: aliceblue;
+   border: 2px solid rgb(248, 246, 246);
+}
+  #re{
+    position: absolute;
+    margin-left: 31.5rem;
+  }
+  #C{
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: 42rem;
+    height: 3rem;
+    width:3rem ;
+    border-radius: 50%;
+  }
+  #C:hover {
+    background-color: black;
+   color: aliceblue;
+   border: 2px solid rgb(248, 246, 246);
+}
+#ca{
+position: absolute;
+margin-left:45.5rem ;
+}
+    
+   
+  #S{
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: 60rem;
+    height: 3rem;
+    width:3rem ;
+    border-radius: 50%;
+
+    
+  }
+  #S:hover {
+    background-color: black;
+   color: aliceblue;
+   border: 2px solid rgb(248, 246, 246);
+}
+  #sh{
+    position: absolute;
+    margin-left: 63.5rem;
+  }
+  .div12{
+    position: absolute;
+    margin-top: 52rem;
+    background-color: rgb(90, 89, 89);
+    width: 84.5rem;
+    
+  }
+  #a1{
+    margin-top: 4rem;
+    margin-left: 11rem;
+  }
+  #a{
+   margin-left: 12rem;
+  }
+  #a2{
+    position: absolute;
+    margin-top: -15.6rem;
+     margin-left: 28rem;
+  }
+  #b{
+    position: absolute;
+    margin-top: -11rem;
+    margin-left: 28rem;
+  }
+  #a3{
+    position: absolute;
+    margin-top: -15.6rem;
+    margin-left:40rem ;
+  }
+  #c{
+    position: absolute;
+    margin-top: -11rem;
+    margin-left: 40rem;
+  }
+  #a4{
+    position: absolute;
+    margin-top: -15.6rem;
+    margin-left: 64rem;
+  }
+   #map{
+    position: absolute;
+    margin-top: -12rem;
+    margin-left: 65rem;
+    height: 10rem;
+    width: 12rem;
+   }
+   .div13{
+    position: absolute;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 73rem;
+    height: 2rem;
+    width: 84.5rem;
+   }
